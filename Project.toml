@@ -3,5 +3,8 @@ uuid = "0a15bd8d-e72d-4ca9-b0a3-fa497b134ca4"
 authors = ["Elliot Bulmer <egbulmer@icloud.com> and contributors"]
 version = "1.0.0-DEV"
 
+[deps]
+Revise = "295af30f-e4ad-537b-8983-00126c2a3abe"
+
 [compat]
 julia = "1"

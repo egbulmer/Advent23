@@ -1,5 +1,5 @@
 module Advent23
 
-# Write your package code here.
+include("day1.jl")
 
 end
